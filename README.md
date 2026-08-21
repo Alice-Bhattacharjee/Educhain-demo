@@ -1,3 +1,3 @@
 # Educhain-demo
-This is my first git repository
-Author-Alice Bhattacharjee
+This is my first Git Repository.
+Author-Alice Bhattacharjee.
